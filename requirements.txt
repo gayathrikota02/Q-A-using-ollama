@@ -1,0 +1,10 @@
+langchain>=0.1.0
+faiss-cpu
+pymupdf
+python-docx
+unstructured
+chromadb
+sentence-transformers
+tiktoken
+llama-cpp-python
+streamlit
